@@ -6,8 +6,8 @@
   <img align="center" src="https://miro.medium.com/max/1280/1*5LjdjvTbSWiHbCyuhwxvDw.png">
 </p>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/raw-materials-optimization-for-food-manufacturing-with-python-fbf2be4a74), we will build  a model to 
+### Article
+In this [Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/), we will build  a model to 
 design an optimal recipe for a meal bar.
 
 #### Problem Statement
