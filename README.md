@@ -10,6 +10,12 @@
 In this [Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/), we will build  a model to 
 design an optimal recipe for a meal bar.
 
+### Youtube Video
+Click on the image below to access a short explainer video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1q4RqR0mgFY"><img src="https://i.ytimg.com/an_webp/1q4RqR0mgFY/mqdefault_6s.webp?du=3000&sqp=CM7vnZ8G&rs=AOn4CLAvDJ38c6ho6ECfxEVV0s0p3AZAJA" alt="Explainer Video Link"></a>
+</div>
+
 #### Problem Statement
 As an R&D manager of a large food manufacturer, you need to design a recipe for a new cheap and healthy meal bar.
 Meal bars must function as a meal rather than just a snack to fill in the cracks.
