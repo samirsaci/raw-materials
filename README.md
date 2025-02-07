@@ -7,7 +7,7 @@
 </p>
 
 ### Article
-In this [Article](https://towardsdatascience.com/raw-materials-optimization-for-food-manufacturing-with-python-fbf2be4a74), we will build  a model to 
+In this [Article](https://medium.com/towards-data-science/raw-materials-optimization-for-food-manufacturing-with-python-fbf2be4a74), we will build  a model to 
 design an optimal recipe for a meal bar.
 
 ### Youtube Video
