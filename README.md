@@ -2,16 +2,21 @@
 *Use linear programming to create an optimal recipe for a cheap meal bar that meets specific nutritional requirements*
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/1280/1*5LjdjvTbSWiHbCyuhwxvDw.png">
+  <a href="https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/1280/1*5LjdjvTbSWiHbCyuhwxvDw.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
-
 ### Article
 In this [Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/), we will build  a model to design an optimal recipe for a meal bar.
 
 ### Youtube Video
 Click on the image below to access a short explainer video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=1q4RqR0mgFY"><img src="https://i.ytimg.com/an_webp/1q4RqR0mgFY/mqdefault_6s.webp?du=3000&sqp=CM7vnZ8G&rs=AOn4CLAvDJ38c6ho6ECfxEVV0s0p3AZAJA" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=1q4RqR0mgFY"><img src="https://i.ytimg.com/an_webp/1q4RqR0mgFY/mqdefault_6s.webp?du=3000&sqp=CJq9z8oG&rs=AOn4CLCd8wCBjjhTFr14rcQzWyT1ojyR1Q" alt="Explainer Video Link"></a>
 </div>
 
 #### Problem Statement
@@ -25,12 +30,24 @@ Non-Meat: Rice, Corn, Wheat bran, Peanuts
 
 These ingredients have different nutrition facts (in grams) per gram
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*rZs1lqRiVF8AFXvf0pRTag.png">
+  <a href="https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/700/1*rZs1lqRiVF8AFXvf0pRTag.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 They also have different costs ($/gram)
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/347/1*THDILkuqhmFROxsgwsSwcQ.png">
+  <a href="https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/347/1*THDILkuqhmFROxsgwsSwcQ.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 
