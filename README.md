@@ -1,14 +1,12 @@
-## Raw Materials Optimization for Food Manufacturing with Python 🥫
+## Raw Materials Optimisation for Food Manufacturing with Python 🥫
 *Use linear programming to create an optimal recipe for a cheap meal bar that meets specific nutritional requirements*
-
 
 <p align="center">
   <img align="center" src="https://miro.medium.com/max/1280/1*5LjdjvTbSWiHbCyuhwxvDw.png">
 </p>
 
 ### Article
-In this [Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/), we will build  a model to 
-design an optimal recipe for a meal bar.
+In this [Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/), we will build  a model to design an optimal recipe for a meal bar.
 
 ### Youtube Video
 Click on the image below to access a short explainer video to understand the concept behind this solution
@@ -30,20 +28,19 @@ These ingredients have different nutrition facts (in grams) per gram
   <img align="center" src="https://miro.medium.com/max/700/1*rZs1lqRiVF8AFXvf0pRTag.png">
 </p>
 
-They have also different costs ($/gram)
+They also have different costs ($/gram)
 <p align="center">
   <img align="center" src="https://miro.medium.com/max/347/1*THDILkuqhmFROxsgwsSwcQ.png">
 </p>
 
 
 #### Objective
-Minimize the total cost per bar (Weight: 120g).
+Minimise the total cost per bar (Weight: 120g).
 
 ## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
+In this repository, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://wwww.logi-green.com/). \
-
+Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://wwww.logi-green.com/).\
 Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
